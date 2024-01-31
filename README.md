@@ -23,7 +23,7 @@ Editable STEP file and 3D printable STL files for the case are available in the 
 Rasti features a custom 64-key mechanical keyboard. It's a low-profile, staggered design powered by a Pi Pico – made specifically for this build. 
 
 Check the typing demo here: 
-https://github.com/penk/rasti.computer/assets/61878/394c64f4-1724-4b48-9fc2-a7310713d996
+https://twitter.com/penk/status/1752805025099772251
 
 The keycap set was born out of a need for versatility and style. It addresses the limited options for Choc v1 switch modifiers. Designed for SLA resin printing, the set includes sizes ranging from 1U to 2.25U, and a 4.75U spacebar that is compatible with the 6.25U stabilizer. 
 
