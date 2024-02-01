@@ -10,7 +10,7 @@ Introducing Rasti, a retro-futuristic laptop inspired by the iconic GRiD Compass
 
 Blending 80s nostalgia with today's technology, Rasti is not just a statement piece that looks good — it's practical too.
 
-The enclosure, designed for easy printing on a 30x30 cm FDM print bed, captures the essence of the GRiD Compass. After sanding and priming, the surface is finished with Tamiya metallic black paint (TS-40), and a touch of silver dry brushing added the retro metal look. 
+The enclosure, designed for easy printing on a 30x30 cm FDM print bed, captures the essence of the GRiD Compass. After sanding and priming, the surface is finished with Tamiya metallic black paint (TS-40), and a touch of silver dry brushing added the beat-up metal look.
 
 | ![](images/rasti-left-side.jpg) | ![](images/rasti-lid-closed.jpg) |
 | --- | --- |
