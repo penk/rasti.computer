@@ -20,23 +20,25 @@ Editable STEP file and 3D printable STL files for the case are available in the 
 
 ## Keyboard 
 
-Rasti features a custom 64-key mechanical keyboard. It's a low-profile, staggered design powered by a Pi Pico – made specifically for this build. 
+Rasti features a custom 64-key mechanical keyboard. It's a low-profile, staggered layout powered by a Pi Pico – made specifically for this build. Check the demos: 
 
-Check the typing demo here: 
-https://twitter.com/penk/status/1752805025099772251
+- Typing sound test: [https://twitter.com/penk/status/1752805025099772251](https://twitter.com/penk/status/1752805025099772251)
+- the "pencil test": [https://twitter.com/penk/status/1752823049785573749](https://twitter.com/penk/status/1752823049785573749)
 
-The keycap set was born out of a need for versatility and style. It addresses the limited options for Choc v1 switch modifiers. Designed for SLA resin printing, the set includes sizes ranging from 1U to 2.25U, and a 4.75U spacebar that is compatible with the 6.25U stabilizer. 
+![](images/rasti-front.jpg)
+
+The Choc-spacing (18mm x 17mm) keycap set was born out of a need for versatility and style. It addresses the limited options for Choc v1 switch modifiers. Designed for SLA resin printing, this set includes sizes ranging from 1U to 2.25U, and a 4.75U spacebar that is compatible with the 6.25U stabilizer. 
 
 We liked the keyboard so much, we made it [its own project](https://github.com/penk/rasti64).
 
 ## Electronics 
 
-A 10.4-inch QLED (1600x720) multitouch display is the centrepiece, It's powered and connected through a USB-C hub and mounted to the chassis with MacBook Pro (A1278) hinges. 
+A 10.4-inch QLED (1600x720) multitouch display is at the centrepiece. It's powered and connected through a USB-C hub and mounted to the chassis with MacBook Pro (A1278) hinges. 
 
 | ![](images/rasti-display-parts.jpg) | ![](images/rasti-display-assembly.jpg) |
 | --- | --- |
 
-At the heart of Rasti are Framework's mainboard and battery. Four pins from the keyboard's Pi Pico (`TP1-TP3`, and `VBUS`), and two pins from a PC power switch are directly soldered to the [power button shim](https://www.tindie.com/products/crimier/framework-mainboard-power-button-shim/). This setup, connected to the mainboard, is used to minimize height. 
+At the heart of Rasti are Framework's mainboard and battery. Four pins from the keyboard's Pi Pico (`TP1`-`TP3` and `VBUS`) along with two pins from a PC power switch, are directly soldered to the [power button shim](https://www.tindie.com/products/crimier/framework-mainboard-power-button-shim/), then connected to the mainboard. This setup is not only space-efficient, minimizing the overall height, but it also helps in freeing up USB ports for other uses.
 
 The WiFi antenna is attached to the top cover, and then the entire assembly is secured with M3 screws. 
 
@@ -57,7 +59,6 @@ Quantity | Item | Notes
 1 | Waveshare 10.4 QLED Display | [link](https://www.waveshare.com/10.4hp-capqled.htm)
 1 | PC Power Switch (16 mm) | [link](https://amazon.de/dp/B09BFWYGJB)
 1 | Framework Mainboard Power Button Shim | [link](https://www.tindie.com/products/crimier/framework-mainboard-power-button-shim/)
-1 | MacBook Pro (A1278) hinges | [link](https://amazon.de/-/en/gp/product/B086HCD5GK)
 
 ### Keyboard parts 
 
@@ -69,7 +70,7 @@ Quantity | Item | Notes
 64 | Kailh Choc V1 PG1350 switches 
 64 | 1N4148 diodes | through hole
 1 | Kailh Choc Stabilizers | 1x2U and 1x6.25U
-1 | Pin Headers or Socket 
+2 | 20-Pin Headers or Socket 
 
 ### 3D printed parts 
 
@@ -97,6 +98,7 @@ Quantity | Item | Notes
 
 Quantity | Item | Notes
 --- | --- | ---
+1 | MacBook Pro (A1278) hinges | [link](https://amazon.de/-/en/gp/product/B086HCD5GK)
 7 | M2 threaded insert | M2x4x3.2, [link](https://amazon.de/-/en/dp/B09B7F2XM3)
 18 | M2.5 threaded insert | M2.5x4x3.5 
 18 | M3 threaded insert | M3x5x5 
@@ -107,6 +109,9 @@ Quantity | Item | Notes
 2 | M3x12 flat-head | display 
 4 | M3x8 flat-head | display hinge 
 5 | M3x10 flat-head | pivot point and keyboard plate 
+
+## Build Instructions 
+Coming soon! 
 
 ## Copyright and License
 Copyright (c) 2024 Penk Chen. All rights reserved.
