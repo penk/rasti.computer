@@ -20,7 +20,7 @@ Editable STEP file and 3D printable STL files for the case are available in the 
 
 ## Keyboard 
 
-Rasti features a custom 64-key mechanical keyboard. It's a low-profile, staggered layout powered by a Pi Pico – made specifically for this build. Check the demos: 
+Rasti packs a custom mechanical keyboard using Choc Low Profile switches. It's a 64-key staggered layout, powered by a Pi Pico – made specifically for this build. Check the demos: 
 
 - Typing test: [https://twitter.com/penk/status/1752805025099772251](https://twitter.com/penk/status/1752805025099772251)
 - The "pencil test": [https://twitter.com/penk/status/1752823049785573749](https://twitter.com/penk/status/1752823049785573749)
