@@ -59,6 +59,7 @@ Quantity | Item | Notes
 1 | Framework 13 Antenna Module | [link](https://frame.work/de/en/products/antenna-module?v=FRANBA0001)
 1 | Waveshare 10.4 QLED Display | [link](https://www.waveshare.com/10.4hp-capqled.htm)
 1 | PC Power Switch (16 mm) | [link](https://amazon.de/dp/B09BFWYGJB)
+1 | USB-C hub | [link](https://www.amazon.de/-/en/gp/aw/d/B0BR3M8XHK)
 1 | Framework Mainboard Power Button Shim | [link](https://www.tindie.com/products/crimier/framework-mainboard-power-button-shim/)
 
 ### Keyboard parts 
